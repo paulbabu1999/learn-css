@@ -7,4 +7,7 @@
 .nav li {
   display: block;
   font-size: 25px;
+  display: inline;
+  padding-left: 60px;
+  padding-right: 60px;
 }
